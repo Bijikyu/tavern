@@ -16,9 +16,16 @@ This is a known pain point for would-be players, many struggling to find a full 
 
 Getting started is simple, just sign in using the sign-up form. Once signed in, just begin swiping groups left (no) or right (yes) depending on your interest. If you want to create a group yourself, just click the icon on the top right to be taken to where you can create your own group or update your player profile.
 
-**Dev**
+**Dev:**
+
 [Trello](https://trello.com/b/TA5qieON/tavern)
+
 [Pitch Deck](https://docs.google.com/viewerng/viewer?url=https://trello-attachments.s3.amazonaws.com/5f616962d2e1863efa998777/5f6169bf6c1e6f36c38007da/b06ba46864fda2dee0507b35b098942c/Pitch_Deck_for_Tavern.pptx)
 
 **Next Steps:**
 * Text analysis and matching of bios to game details.
+* Monetize GMing
+* Functioning avatars
+* Notifications
+* Comments
+
